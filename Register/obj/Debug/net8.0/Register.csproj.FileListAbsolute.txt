@@ -1,0 +1,14 @@
+/Users/yun/C/Register/Register/bin/Debug/net8.0/Register
+/Users/yun/C/Register/Register/bin/Debug/net8.0/Register.deps.json
+/Users/yun/C/Register/Register/bin/Debug/net8.0/Register.runtimeconfig.json
+/Users/yun/C/Register/Register/bin/Debug/net8.0/Register.dll
+/Users/yun/C/Register/Register/bin/Debug/net8.0/Register.pdb
+/Users/yun/C/Register/Register/obj/Debug/net8.0/Register.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yun/C/Register/Register/obj/Debug/net8.0/Register.AssemblyInfoInputs.cache
+/Users/yun/C/Register/Register/obj/Debug/net8.0/Register.AssemblyInfo.cs
+/Users/yun/C/Register/Register/obj/Debug/net8.0/Register.csproj.CoreCompileInputs.cache
+/Users/yun/C/Register/Register/obj/Debug/net8.0/Register.dll
+/Users/yun/C/Register/Register/obj/Debug/net8.0/refint/Register.dll
+/Users/yun/C/Register/Register/obj/Debug/net8.0/Register.pdb
+/Users/yun/C/Register/Register/obj/Debug/net8.0/Register.genruntimeconfig.cache
+/Users/yun/C/Register/Register/obj/Debug/net8.0/ref/Register.dll
